@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌸 Hi, I'm Snauz! A tech dilettante dabbling in web dev, competitive programming, and deep learning. 🌼✨
+🌸 Hi, I'm Snauz! A tech dilettante dabbling in ai/ml. 🌼✨
 
 
 # 💻 Tech Stack:
