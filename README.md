@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌸 Hi, I'm Snauz! A tech dilettante dabbling in ai/ml. 🌼✨
+Hi, I'm junchi, someone who's curious about how ai/ml works, and why it matters
 
 
 # 💻 Tech Stack:
