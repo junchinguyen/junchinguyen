@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm junchi, someone who's curious about how ai/ml works, and why it matters
+Helo, I'm junchi, just someone who's curious about how ai/ml works, and why it matters
 
 
 # 💻 Tech Stack:
