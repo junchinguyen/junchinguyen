@@ -1,5 +1,6 @@
 # 💫 About Me:
 Helo, I'm junchi, just someone who's curious about how ai/ml works, and why it matters c:
+Hello, I am Thai Son, or you might know me as Junchi. Beyond competitive programming, I do a bit of AI and web dev. My interests in math and stem in general naturally led me here c:
 
 
 # 💻 Tech Stack:
